@@ -2,13 +2,13 @@
 
 This repository provides an implementation of a classification model using attention-based deep learning techniques. The goal of this project is to leverage attention mechanisms to improve the performance of classification tasks.
 
+
+
 ## Getting Started
 
 To get started with this project, follow the steps below:
 
-
 1. Install the required dependencies. It is recommended to set up a virtual environment before installing the dependencies:
-
 
 shell
 cd attention-based-classification
@@ -31,6 +31,7 @@ python train.py
 
 shell
 python evaluate.py
+
 
 
 ## Model Architecture
