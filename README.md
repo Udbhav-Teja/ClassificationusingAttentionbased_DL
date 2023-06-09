@@ -38,9 +38,12 @@ python evaluate.py
 
 The classification model is based on an attention mechanism, specifically the Transformer architecture. The model consists of several layers of self-attention and feed-forward neural networks. The attention mechanism allows the model to focus on different parts of the input sequence when making predictions, capturing important patterns and relationships.
 
+
+
 ## Results and Performance
 
 Once the model is trained and evaluated, the results will be displayed, including metrics such as accuracy, precision, recall, and F1-score. You can analyze these metrics to assess the model's performance on your classification task.
+
 
 
 ## Conclusion
