@@ -9,6 +9,7 @@ To get started with this project, follow the steps below:
 
 1. Install the required dependencies. It is recommended to set up a virtual environment before installing the dependencies:
 
+
 shell
 cd attention-based-classification
 python -m venv venv
